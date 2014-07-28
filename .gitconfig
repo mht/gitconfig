@@ -1,0 +1,12 @@
+[user]
+	name = Sam Tsai
+	email = mhsien.tsai@gmail.com
+[color]
+	ui = auto
+[core]
+	editor = vim
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	rb = rebase
